@@ -72,9 +72,9 @@ npm run dev
 
 ## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
 
-<div  align="center">
-<video src="./assets for readme/191144889-f66f027c-fbf7-4241-b64d-a29cfd2df29f.mp4">
-</video> 
-</div>
+<div align="center">
+
+<img height=500px src="./assets for readme/Screenshot 2023-01-16 at 3.07.55 PM.png">
+<div align="center"  width=10%>
 
 <br>
